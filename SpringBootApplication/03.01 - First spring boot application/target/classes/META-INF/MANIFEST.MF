@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: 03.01 - First spring application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: StudyEasy
+Implementation-Vendor-Id: org.studyeasy.springBoot
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/starter-project
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: 03.02-WebappWithSpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: StudyEasy
+Implementation-Vendor-Id: org.studyeasy
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/03.02-WebappWithSpringBoot
+Created-By: Maven Integration for Eclipse
+
